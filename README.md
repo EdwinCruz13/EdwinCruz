@@ -8,7 +8,7 @@
       </li>
       <li>
         <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> 
-        Ask me about anything related to C# / ASP.NET / VB.NET / SQL Server.</li>
+        Ask me about anything related to C# / ASP.NET / VB.NET / DevExpress / SQL Server.</li>
       <li>
         <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> 
         I’m currently learning NodeJS and React. I'm starting  <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> them.
@@ -61,6 +61,9 @@
     <img src="https://media.taringa.net/knn/fit:550/Z3M6Ly9rbjMvNDJiY2ViZGMyODdmNzAwZWJkNjE2OTU2YTVlZTI0YjcucG5n" alt="EdwinCruz" width="40" height="40"/>
   </a> 
   <a href = "#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="EdwinCruz" width="40" height="40"/>
+  </a> 
+  <a href = "#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="EdwinCruz" width="40" height="40"/>
   </a> 
 </p>
@@ -91,10 +94,22 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="EdwinCruz" width="40" height="40"  />
   </a> 
   <a href = "#">
+    <img src="https://www.devexpress.com/Content/Core/facebook-share-icon.png" alt="EdwinCruz" width="40" height="40"  />
+  </a> 
+  <a href = "#">
     <img src="https://www.tutlane.com/images/categorylogo/linq.png" alt="EdwinCruz" width="40" height="40"  />
   </a> 
   <a href = "#">
     <img src="https://www.comparatif-logiciels.fr/wp-content/uploads/2021/06/microsoft-sql-server-management-studio-avis-tarif-alternative-comparatif-logiciels-saas.webp" alt="EdwinCruz" width="40" height="40"  />
+  </a> 
+  <a href = "#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="EdwinCruz" width="40" height="40"  />
+  </a> 
+  <a href = "#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Devicon-css3-plain-wordmark.svg/640px-Devicon-css3-plain-wordmark.svg.png" alt="EdwinCruz" width="40" height="40"  />
+  </a> 
+  <a href = "#">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="EdwinCruz" width="40" height="40"  />
   </a> 
 </p>
 </details>
