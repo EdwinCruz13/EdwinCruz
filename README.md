@@ -77,9 +77,6 @@
   <a href = "#">
     <img src="https://mpng.subpng.com/20180320/yaw/kisspng-microsoft-sql-server-database-administrator-comput-free-high-quality-sql-server-icon-5ab0c7c9b28e37.6388540115215349217314.jpg" alt="EdwinCruz" width="40" height="40"  />
   </a> 
-  <a href = "#">
-    <img src="https://img.icons8.com/color/452/mongodb.png" alt="EdwinCruz" width="40" height="40"  />
-  </a> 
 </p>
 </details>
 
