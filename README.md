@@ -3,21 +3,21 @@
 
   <ul>
       <li>
-        <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji>
+        <g-emoji class="g-emoji" alias="telescope">🔭</g-emoji>
         I’m currently working on something cool.
       </li>
       <li>
-        <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> 
+        <g-emoji class="g-emoji" alias="speech_balloon">💬</g-emoji> 
         Ask me about anything related to C# / ASP.NET / VB.NET / DevExpress / SQL Server.</li>
       <li>
-        <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> 
+        <g-emoji class="g-emoji" alias="seedling">🌱</g-emoji> 
         I’m currently learning NodeJS and React. I'm starting  <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> them.
       </li>
-    <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> &nbsp;How to reach me:        <a href="https://www.linkedin.com/in/edwincruz13/" rel="nofollow">Likedin</a> </li>
+    <li><g-emoji class="g-emoji" alias="mailbox">📫</g-emoji> &nbsp;How to reach me:        <a href="https://www.linkedin.com/in/edwincruz13/" rel="nofollow">Likedin</a> </li>
       <li>
-        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
+        <g-emoji class="g-emoji" alias="zap">⚡</g-emoji>
          Also, I Like play games
-        <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji>.
+        <g-emoji class="g-emoji" alias="telescope">🔭</g-emoji>.
       </li>
   </ul>
   
@@ -35,12 +35,12 @@
   <br>
 <p dir="auto">I am a Net Developer with 5+ years of experience in developing and participating on enterprise applications as:
   <ul>
-    <li><a href="#">Application loan software. </a></li>
-    <li><a href="#">Accounting software.</a></li>
-    <li><a href="#">Shift Manager software.</a></li>
-    <li><a href="#">Consuming ApiRest.</a></li>
-    <li><a href="#">Vacation Tracker software.</a></li>
-    <li><a href="#">Website.</a></li>
+    <li><a href="#">Application loan software. <g-emoji class="g-emoji" alias="seedling">💵</g-emoji></a></li>
+    <li><a href="#">Accounting software. <g-emoji class="g-emoji" alias="seedling">💳</g-emoji></a></li>
+    <li><a href="#">Shift manager software. <g-emoji class="g-emoji" alias="seedling">💨</g-emoji></a></li>
+    <li><a href="#">Consuming ApiRest. <g-emoji class="g-emoji" alias="seedling">🏃</g-emoji></a></li>
+    <li><a href="#">Vacation tracker software. <g-emoji class="g-emoji" alias="seedling">📆💤</g-emoji></a></li>
+    <li><a href="#">Website. <g-emoji class="g-emoji" alias="seedling">📄</g-emoji></a></li>
   </ul>
   </p>
 </details>
