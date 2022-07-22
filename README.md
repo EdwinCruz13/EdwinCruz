@@ -10,7 +10,7 @@
         <g-emoji class="g-emoji" alias="speech_balloon">💬</g-emoji> 
         Ask me about anything related to C# / ASP.NET / VB.NET / DevExpress / SQL Server.</li>
       <li>
-        <g-emoji class="g-emoji" alias="seedling">🚩</g-emoji> 
+        <g-emoji class="g-emoji" alias="seedling">🤘</g-emoji> 
         I’m currently learning NodeJS and React and I'm starting <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> them.
       </li>
     <li><g-emoji class="g-emoji" alias="mailbox">📫</g-emoji> &nbsp;How to reach me:        <a href="https://www.linkedin.com/in/edwincruz13/" rel="nofollow">Likedin</a> </li>
