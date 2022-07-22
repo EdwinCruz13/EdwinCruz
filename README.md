@@ -35,11 +35,12 @@
   <br>
 <p dir="auto">I am a Net Developer with 5+ years of experience in developing and participating on enterprise applications as:
   <ul>
-    <li><a href="·">Application loan system. </a></li>
-    <li><a href="·">Accounting system.</a></li>
-    <li><a href="·">Shift Manager.</a></li>
-    <li><a href="·">Consuming ApiRest.</a></li>
-    <li><a href="·">Website.</a></li>
+    <li><a href="#">Application loan software. </a></li>
+    <li><a href="#">Accounting software.</a></li>
+    <li><a href="#">Shift Manager software.</a></li>
+    <li><a href="#">Consuming ApiRest.</a></li>
+    <li><a href="#">Vacation Tracker software.</a></li>
+    <li><a href="#">Website.</a></li>
   </ul>
   </p>
 </details>
