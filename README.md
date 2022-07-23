@@ -37,7 +37,7 @@
   <ul>
     <li><a href="#">Application loan software. <g-emoji class="g-emoji" alias="seedling">💵</g-emoji></a></li>
     <li><a href="#">Accounting software. <g-emoji class="g-emoji" alias="seedling">💳</g-emoji></a></li>
-    <li><a href="#">Shift manager software. <g-emoji class="g-emoji" alias="seedling">💨</g-emoji></a></li>
+    <li><a href="https://github.com/EdwinCruz13/SIGT">Shift manager software. <g-emoji class="g-emoji" alias="seedling">💨</g-emoji></a></li>
     <li><a href="#">Consuming ApiRest. <g-emoji class="g-emoji" alias="seedling">🏃</g-emoji></a></li>
     <li><a href="#">Vacation tracker software. <g-emoji class="g-emoji" alias="seedling">📆💤</g-emoji></a></li>
     <li><a href="#">Website. <g-emoji class="g-emoji" alias="seedling">📄</g-emoji></a></li>
