@@ -116,7 +116,7 @@
   <summary><b><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>Learning right now</b></summary>
   <br>
 <p dir="left">
-  <a href = "#">
+  <a href = "https://github.com/EdwinCruz13/MERN">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" alt="EdwinCruz" width="320" height="100"  />
   </a> 
 </p>
