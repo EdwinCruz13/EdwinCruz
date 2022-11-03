@@ -59,7 +59,7 @@
     <img src="https://play-lh.googleusercontent.com/wk3fChuLzVrmPoziTCwfphi6EfU-K_EU3smw8VLxVPwT61VAsZB0vtLiHcjvBde3Lw" alt="EdwinCruz" width="40" height="40"  />
   </a> 
    <a href = "#">
-    <img src="https://media.taringa.net/knn/fit:550/Z3M6Ly9rbjMvNDJiY2ViZGMyODdmNzAwZWJkNjE2OTU2YTVlZTI0YjcucG5n" alt="EdwinCruz" width="40" height="40"/>
+    <img src="https://learn.microsoft.com/answers/topics/25336/icon.html?t=168520" alt="EdwinCruz" width="40" height="40"/>
   </a> 
   <a href = "#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="EdwinCruz" width="40" height="40"/>
